@@ -1,0 +1,10 @@
+{
+    "re_sub": {"_type":"choice","_value": [0.1, 0.4, 0.7, 1]},
+    "re_rel": {"_type":"choice","_value": [0.1, 0.4, 0.7, 1]},
+    "re_obj": {"_type":"choice","_value": [0.1, 0.4, 0.7, 1]},
+    "final_sub": {"_type":"choice","_value": [0.1, 0.4, 0.7, 1]},
+    "final_rel": {"_type":"choice","_value": [0.1, 0.4, 0.7, 1]},
+    "final_obj": {"_type":"choice","_value": [0.1, 0.4, 0.7, 1]},
+    "lamda": {"_type":"choice","_value": [0.1, 0.4, 0.7, 1]},
+    "learning_rate":{"_type":"quniform","_value": [1.0e-4,2.26e-4,0.1e-4]}
+}

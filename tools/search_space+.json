@@ -1,0 +1,3 @@
+{
+    "learning_rate":{"_type":"uniform","_value": [1.0e-5,2.0e-3]}
+}

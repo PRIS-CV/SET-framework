@@ -1,0 +1,7 @@
+{
+    "margin": {"_type":"uniform","_value": [0.1, 1]},
+    "final_sub": {"_type":"choice","_value": [0.1, 0.4, 0.7, 1]},
+    "final_rel": {"_type":"choice","_value": [0.1, 0.4, 0.7, 1]},
+    "final_obj": {"_type":"choice","_value": [0.1, 0.4, 0.7, 1]},
+    "learning_rate":{"_type":"uniform","_value": [1.0e-5,1.0e-3]}
+}
